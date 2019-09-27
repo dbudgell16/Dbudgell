@@ -1,0 +1,10 @@
+#toronto{
+font-family: "Arial" sans-serif;
+text-transform: uppercase;
+}
+
+#bordering {
+
+  border-image: url(https://www.toronto.ca/wp-content/uploads/2017/07/8e31-explore-visitor-banner.jpg);
+  border: 1px solid black;
+}
