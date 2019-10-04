@@ -1,0 +1,33 @@
+body{
+  background-color: blue;
+}
+
+#outerSquare {
+border: black 4px solid;
+margin-top: 100px;
+margin-right: 10%;
+margin-bottom: 120px;
+margin-left: 10%;
+
+}
+
+
+ .box {
+   margin-top: 20px;
+   margin-right: 2%;
+   margin-bottom: 10px;
+   margin-left: 2%;
+   border: green 2px dashed;
+   color: purple;
+
+ }
+
+ img {
+   border: 2px pink dashed;
+    padding: 10px;
+margin-top: 10px;
+margin-right:80%;
+margin-bottom: 0px;
+margin-left: 0%;
+
+ }

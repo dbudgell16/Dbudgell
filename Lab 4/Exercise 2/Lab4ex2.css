@@ -1,0 +1,47 @@
+body{
+}
+
+.box{
+border: purple 3px dotted;
+margin-top: 10px;
+margin-right: 40px;
+margin-bottom: 20px;
+margin-left: 40px;
+padding-top: 200px;
+Text-align: center;
+color: black;
+font-size: 13px;
+
+}
+
+.smallfont{
+
+  color: green;
+  Text-align: center;
+  font-size: 10px;
+}
+
+.leftText{
+color: orange;
+font-size: 30px;
+margin-left: 30px;
+
+}
+
+.redText{
+  color: red;
+  font-size:30px;
+
+}
+
+.yellowText{
+  color:yellow;
+  font-size:uppercase;
+}
+
+.moreText{
+color: purple;
+font-size: 7px;
+text-align: right;
+margin-right: 40px;
+}
