@@ -2,7 +2,7 @@ body{
   background-color: blue;
 }
 
-#outerSquare {
+ #outerSquare {
 border: black 4px solid;
 margin-top: 100px;
 margin-right: 10%;
@@ -10,7 +10,6 @@ margin-bottom: 120px;
 margin-left: 10%;
 
 }
-
 
  .box {
    margin-top: 20px;
