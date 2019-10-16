@@ -1,0 +1,106 @@
+body{
+  background-color: White;
+  color: Black;
+}
+
+.title{
+  font-size: 50px;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+#pbox{
+  height: 150px;
+  width: 150px;
+  background-color: DodgerBlue;
+  color: white;
+  position:fixed;
+  padding-right: 20px;
+  right: 20px;
+padding-top: 20px;
+text-align: center;
+font-size: 20px;
+}
+
+.p1{
+  font-size:20px;
+  font-style: italic;
+  color: blue;
+}
+
+.p2{
+  font-size:20px;
+  font-style: italic;
+  color: orange;
+}
+
+.p3{
+  font-size:20px;
+  font-style: italic;
+  color: teal;
+}
+
+h1 {color: green;}
+h2 {color: black;
+text-decoration-line: underline;}
+h3 {color:blue;}
+h4 {color: red;}
+h5 {color: black;
+font-size: 20px;}
+p {color: DodgerBlue;
+font-size:35px;}
+
+img {
+  border: black 5px solid;
+  padding: 15px;
+  margin-top: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+}
+
+.box{
+  border: blue 3px dashed;
+  padding: 10px;
+  position: relative;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.ul{
+color: green;
+font-style: italic;
+font-size: 25px;
+}
+
+.ol{
+color: red;
+font-style:italic;
+}
+
+#rightbody{
+  background-color: red;
+  color: white;
+  border: black 2px solid;
+  width: 250px;
+  height: 250px;
+  float: right;
+  padding: 5px;
+  position: absolute;
+  top: 1805px;
+  right: 200px;
+}
+
+.redtext{
+  color:red;
+  font-size: 70px;
+}
+
+.upper{
+  font-size: uppercase;
+  font-family:monospace;
+  font-style: italic;
+  color:blue;
+}
