@@ -1,0 +1,97 @@
+body{
+background-color: darkgrey;
+}
+
+
+#wrapper{
+    width: 1200px;
+    height: 1100px;
+    margin: 0 auto;
+  }
+
+
+  #header1{
+     text-align: center;
+     text-decoration: underline;
+     padding-top: 30px;
+     color: Black;
+     font-size: 55px;
+     border: groove 8px;
+     border-color: steelblue;
+     padding-bottom: 50px;
+     background-image: url("http://paradisewithaview.com/sitebuilder/images/ocean_view_llllllll-678x179.jpg")
+   }
+
+.underline{
+  text-decoration: underline;
+  color: Black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#leftbox{
+  color:silver;
+  text-align: left;
+  padding-left:10px;
+  padding-right: 10px;
+  border: outset 4px;
+  border-color: black;
+width:250px;
+height: 500px;
+background-color: steelblue;
+float: left;
+position: absolute;
+top:230px;
+left: 80px;
+}
+
+#bottombox{
+  color: Black;
+  padding-left: 10px;
+width: 1200px;
+height: 275px;
+background-image: url("https://paradise-wilderness.com/wp-content/uploads/2017/05/Paradise-Beach-resort-view.jpg");
+
+position: absolute;
+float: left;
+top:800px;
+left: 80px;
+}
+
+#middlebox{
+background-color: steelblue;
+color:lime;
+font-size: 30px;
+padding-left:10px;
+padding-top: 10px;
+width: 600px;
+height:  520px;
+border: outset 8px;
+border-color: black;
+position:absolute;
+top: 230px;
+left: 380px;
+}
+
+.lime{
+  color:lime;
+  font-size: 30px;
+  padding-left: 5px;
+}
+
+#link{
+  float: right;
+  padding-right: 10px;
+  font-size: 20px;
+
+}
+
+#img1{
+position:absolute;
+border: black 2px;
+}
+
+#img2{
+  position:absolute;
+  border: black 2px;
+}
