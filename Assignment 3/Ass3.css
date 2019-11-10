@@ -87,7 +87,7 @@ left: 380px;
   padding-left: 5px;
 }
 
-#link{
+.link{
   float: right;
   padding-right: 10px;
   font-size: 20px;
