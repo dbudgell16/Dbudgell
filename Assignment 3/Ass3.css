@@ -9,7 +9,6 @@ background-color: darkgrey;
     margin: 0 auto;
   }
 
-
   #header1{
      text-align: center;
      text-decoration: underline;
@@ -61,7 +60,6 @@ left: 80px;
 width: 1200px;
 height: 275px;
 background-image: url("https://paradise-wilderness.com/wp-content/uploads/2017/05/Paradise-Beach-resort-view.jpg");
-
 position: absolute;
 float: left;
 top:800px;
@@ -93,7 +91,6 @@ left: 380px;
   float: right;
   padding-right: 10px;
   font-size: 20px;
-
 }
 
 #img1box{
